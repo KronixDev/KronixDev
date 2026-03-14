@@ -1,9 +1,9 @@
 <h1 align="center">Kevin Pierrot</h1>
 
 <p align="center">
-  <strong>Product Engineer · Founding Engineer · AI Engineer</strong><br/>
+  <strong>Product Engineer · AI Engineer · Founding Engineer</strong><br/>
   <em>I design, build, and ship AI-powered products end to end — solo.</em><br/>
-  <em>6 shipped iOS apps · 14+ AI microservices · 45K+ jobs/month processed</em>
+  <em>4 shipped iOS apps · 2 production SaaS platforms · 14+ AI microservices</em>
 </p>
 
 <p align="center">
@@ -16,17 +16,29 @@
 
 ### What I Own End to End
 
-Product vision · UX/UI · System architecture · AI pipelines · CI/CD · Deployment · App Store releases · Monetization · Analytics · Legal
+I build and ship consumer iOS apps and AI-powered SaaS platforms with React Native, Expo, Next.js, TypeScript, Python, and Docker. I own every layer of the product lifecycle: product vision, UX/UI, system architecture, AI pipelines, CI/CD, deployment, App Store releases, monetization, analytics, and legal. I use AI-augmented workflows to move fast, but I am accountable for the production result.
 
-I use AI-augmented workflows to move fast, but I am accountable for the production result.
-
-`React Native` `Expo` `Next.js` `TypeScript` `Python` `FastAPI` `Docker` `Valkey/Redis` `Supabase` `PostgreSQL` `Stripe` `RevenueCat`
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+</p>
 
 ---
 
 ### Shipped Products
 
-#### Lucien — Autonomous AI Recruitment Platform &nbsp; [![Live](https://img.shields.io/badge/Live-kronix.io-success?style=flat-square)](https://www.kronix.io/)
+#### Lucien — Autonomous AI Recruitment Platform &nbsp; [![Live](https://img.shields.io/badge/Live-heylucien.app-success?style=flat-square)](https://www.heylucien.app/)
 
 > SaaS platform with 14+ microservices for AI-powered recruitment automation.
 
@@ -38,13 +50,24 @@ I use AI-augmented workflows to move fast, but I am accountable for the producti
 
 ---
 
+#### KroniWorld — AI Job Board &nbsp; [![Live](https://img.shields.io/badge/Live-kroniworld.com-success?style=flat-square)](https://www.kroniworld.com/annonces)
+
+> Job board with 1-click apply, AI candidate analysis, and recruiter tools.
+
+`Next.js` `Supabase` `PostgreSQL`
+
+- Geolocation-based job discovery (Leaflet + Mapbox) · AI-powered candidature analysis and prequalification
+- Full-text search with pg_trgm · Email automation for candidate lifecycle · Interview booking
+
+---
+
 #### Rodrigue — AI Job Discovery &nbsp; [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/fr/app/rodrigue/id6757642815?l=en-GB)
 
-> **4 seconds instead of 4 minutes** to find relevant job opportunities.
+> **4 seconds instead of 4 minutes** to find relevant job opportunities. 45K–75K jobs/month processed.
 
 `React Native` `Expo` `FastAPI` `Valkey` `Supabase`
 
-- 4-tier AI enrichment with cost-optimized provider fallback — 25 jobs/sec throughput, 45K–75K jobs/month processed
+- 4-tier AI enrichment with cost-optimized provider fallback — 25 jobs/sec throughput
 - Fast scraping (~2s) + async background discovery (~100+ jobs) + AI-powered semantic query expansion
 - Real-time polling architecture with fingerprint dedup
 
@@ -62,6 +85,11 @@ I use AI-augmented workflows to move fast, but I am accountable for the producti
 
 ---
 
+<details>
+<summary><strong>More shipped products (3)</strong></summary>
+
+<br/>
+
 #### ClearMind — AI Brain Dump
 
 > Transforms unstructured thoughts into organized, actionable insights via a 2-phase AI pipeline.
@@ -73,11 +101,6 @@ I use AI-augmented workflows to move fast, but I am accountable for the producti
 - CloudKit sync, watchOS companion, Share Extension, Home Screen Widgets · 14 languages
 
 ---
-
-<details>
-<summary><strong>More shipped products (2)</strong></summary>
-
-<br/>
 
 #### Volo — Visual Memory Journal &nbsp; [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/fr/app/volo/id6756238661?l=en-GB)
 
@@ -98,17 +121,6 @@ I use AI-augmented workflows to move fast, but I am accountable for the producti
 
 - Queue-based multi-source enrichment pipeline with vision AI analysis (20x parallel)
 - Atomic queue locking · WebP compression + S3 storage · Multi-model i18n translation pipeline
-
----
-
-#### KroniWorld — AI Job Board &nbsp; [![Live](https://img.shields.io/badge/Live-kroniworld.com-success?style=flat-square)](https://www.kroniworld.com/annonces)
-
-> Job board with 1-click apply, AI candidate analysis, and recruiter tools.
-
-`Next.js` `Supabase` `PostgreSQL`
-
-- Geolocation-based job discovery (Leaflet + Mapbox) · AI-powered candidature analysis
-- Full-text search with pg_trgm · Email automation · Interview booking
 
 </details>
 
