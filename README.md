@@ -59,7 +59,7 @@ I build and ship consumer iOS apps and AI-powered SaaS platforms with React Nati
 
 > **4 seconds instead of 4 minutes** to find relevant job opportunities. 45K–75K jobs/month processed.
 
-`React Native` `Expo` `FastAPI` `Valkey` `Supabase`
+`React Native` `FastAPI` `Valkey` `Supabase`
 
 - 4-tier AI enrichment with cost-optimized provider fallback — 25 jobs/sec throughput
 - Fast scraping (~2s) + async background discovery (~100+ jobs) + AI-powered semantic query expansion
@@ -71,7 +71,7 @@ I build and ship consumer iOS apps and AI-powered SaaS platforms with React Nati
 
 > iOS app for managing job applications with AI coaching and gamification.
 
-`React Native` `Expo` `React 19` `Supabase`
+`React Native` `React 19` `Supabase`
 
 - 3D Apple MapKit with intelligent marker clustering · AI assistant for interview coaching and cover letters
 - 4-platform analytics pipeline (TikTok, Meta, AppsFlyer, PostHog) with dedup
@@ -88,7 +88,7 @@ I build and ship consumer iOS apps and AI-powered SaaS platforms with React Nati
 
 > Transforms unstructured thoughts into organized, actionable insights via a 2-phase AI pipeline.
 
-`React Native` `Expo` `FastAPI` `Python`
+`React Native` `FastAPI` `Python`
 
 - Fast classification + deep parallel structured extraction with circuit breaker and multi-provider fallback
 - 19+ rich editor block types with PencilKit drawing · Voice transcription with fallback chain
@@ -100,7 +100,7 @@ I build and ship consumer iOS apps and AI-powered SaaS platforms with React Nati
 
 > Self-care app — answer a daily question, get an aesthetic memory card in 30 seconds.
 
-`React Native` `Expo` `RevenueCat`
+`React Native` `RevenueCat`
 
 - 1,000+ curated daily questions across 10 focus categories · Auto-generated visual memory cards
 - iOS WidgetKit with mini & card widgets (Swift) · Monthly gratitude challenges with streak tracking
