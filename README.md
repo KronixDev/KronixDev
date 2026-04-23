@@ -3,7 +3,7 @@
 <p align="center">
   <strong>Product Engineer · AI Engineer · Founding Engineer</strong><br/>
   <em>I design, build, and ship AI-powered products end to end — solo.</em><br/>
-  <em>4 shipped iOS apps · 2 production SaaS platforms · 14+ AI microservices</em>
+  <em>5 shipped iOS apps · 2 production SaaS platforms · 14+ AI microservices</em>
 </p>
 
 <p align="center">
@@ -76,6 +76,18 @@ I build and ship consumer iOS apps and AI-powered SaaS platforms with React Nati
 - 3D Apple MapKit with intelligent marker clustering · AI assistant for interview coaching and cover letters
 - 4-platform analytics pipeline (TikTok, Meta, AppsFlyer, PostHog) with dedup
 - Liquid Glass design system · Native iOS Widgets in Swift · Gamification streak system
+
+---
+
+#### Currik — AI CV Builder &nbsp; [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/fr/app/currik/id6761312736)
+
+> iOS app that builds and adapts your CV per job offer with AI. Designed by a recruiter, engineered to beat ATS filters.
+
+`React Native` `Expo` `React 19` `Supabase` `RevenueCat`
+
+- AI-powered CV generation in 2 minutes · Per-offer CV tailoring to beat ATS filters (up to 5 adaptations/week)
+- Recruiter-designed templates catalog · ATS optimization (keywords, structure, format) · PDF export
+- OCR import for existing CVs · Smart content generation with recruitment-aware prompts
 
 ---
 
