@@ -96,7 +96,7 @@ I build and ship consumer iOS apps and AI-powered SaaS platforms with React Nati
 
 <br/>
 
-#### ClearMind — AI Brain Dump
+#### ClearMind — AI Brain Dump &nbsp; [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/clearmind-ai-thought-journal/id6745428259)
 
 > Transforms unstructured thoughts into organized, actionable insights via a 2-phase AI pipeline.
 
