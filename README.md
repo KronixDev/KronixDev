@@ -3,7 +3,7 @@
 <p align="center">
   <strong>Product Engineer · AI Engineer · Founding Engineer</strong><br/>
   <em>I design, build, and ship AI-powered products end to end — solo.</em><br/>
-  <em>5 shipped iOS apps · 2 production SaaS platforms · 14+ AI microservices</em>
+  <em>4 shipped iOS apps · 2 production SaaS platforms · 14+ AI microservices</em>
 </p>
 
 <p align="center">
@@ -92,7 +92,7 @@ I build and ship consumer iOS apps and AI-powered SaaS platforms with React Nati
 ---
 
 <details>
-<summary><strong>More shipped products (3)</strong></summary>
+<summary><strong>More shipped products (2)</strong></summary>
 
 <br/>
 
@@ -105,17 +105,6 @@ I build and ship consumer iOS apps and AI-powered SaaS platforms with React Nati
 - Fast classification + deep parallel structured extraction with circuit breaker and multi-provider fallback
 - 19+ rich editor block types with PencilKit drawing · Voice transcription with fallback chain
 - CloudKit sync, watchOS companion, Share Extension, Home Screen Widgets · 14 languages
-
----
-
-#### Volo — Visual Memory Journal &nbsp; [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/fr/app/volo/id6756238661?l=en-GB)
-
-> Self-care app — answer a daily question, get an aesthetic memory card in 30 seconds.
-
-`React Native` `RevenueCat`
-
-- 1,000+ curated daily questions across 10 focus categories · Auto-generated visual memory cards
-- iOS WidgetKit with mini & card widgets (Swift) · Monthly gratitude challenges with streak tracking
 
 ---
 
